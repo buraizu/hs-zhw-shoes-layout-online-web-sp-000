@@ -36,16 +36,7 @@
   grid-column-start: span 2;
 }
 
-.contact-info {
+.info {
   float: left;
   margin-right: 20%;
-}
-
-.link-info {
-  float: left;
-  margin-right: 20%;
-}
-
-.social-info {
-  float: left;
 }

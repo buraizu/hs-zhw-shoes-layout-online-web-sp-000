@@ -48,14 +48,14 @@
 .first-shoe {
   float: left;
   margin: 0.5%;
-  width: 30%;
+  width: 28%;
 
 }
 
 .middle-shoe {
   float: left;
 
-  width: 30%;
+  width: 28%;
   margin: 0.5%;
 
 }
@@ -63,7 +63,7 @@
 .last-shoe {
   float: left;
 
-  width: 30%;
+  width: 28%;
   margin: 0.5%;
 
 }

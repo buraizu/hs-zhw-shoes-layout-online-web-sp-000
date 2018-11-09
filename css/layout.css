@@ -24,4 +24,42 @@
 
 /* Positioning Classes */
 
+.my-wrapper {
+  width: 100%;
+  overflow: hidden;
+  border: 2px solid magenta;
+}
 
+.featured-col {
+  float: left;
+  width: 66%;
+
+}
+
+.archive {
+  float: left;
+  margin-left: 3%;
+  width: 30%;
+}
+
+.first-shoe {
+  width: 25%;
+
+
+}
+
+.middle-shoe {
+  width: 25%;
+
+}
+
+.last-shoe {
+  width: 25%;
+
+}
+
+.shoe-col {
+  float: left;
+  display: inline-block;
+  margin: 10px;
+}

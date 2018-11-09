@@ -29,7 +29,7 @@
   overflow: hidden;
   border: 2px solid magenta;
   height: 100%;
-  
+
 }
 
 .featured-col {
@@ -48,14 +48,14 @@
 .first-shoe {
   float: left;
   margin: 0.5%;
-  width: 28%;
+  width: 25%;
   height: 345px;
 }
 
 .middle-shoe {
   float: left;
 
-  width: 28%;
+  width: 25%;
   margin: 0.5%;
   height: 345px;
 }
@@ -63,7 +63,7 @@
 .last-shoe {
   float: left;
 
-  width: 28%;
+  width: 25%;
   margin: 0.5%;
   height: 345px;
 }

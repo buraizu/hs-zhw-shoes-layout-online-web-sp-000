@@ -55,7 +55,8 @@
 }
 
 .last-shoe {
-
+  float: right;
+  margin-left: 1%;
 
 }
 

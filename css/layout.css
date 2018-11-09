@@ -25,12 +25,10 @@
 /* Positioning Classes */
 
 .my-wrapper {
-
   width: 100%;
   overflow: hidden;
   border: 2px solid magenta;
   height: 100%;
-
 }
 
 .grid {

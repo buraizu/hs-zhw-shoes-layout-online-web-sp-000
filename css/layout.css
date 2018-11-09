@@ -25,13 +25,18 @@
 /* Positioning Classes */
 
 .my-wrapper {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  
   width: 100%;
   overflow: hidden;
   border: 2px solid magenta;
   height: 100%;
 
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-rows: 2fr 1fr;
 }
 
 .featured-col {

@@ -32,14 +32,14 @@
 
 .featured-col {
   float: left;
-  width: 66%;
+  width: 65%;
   height: 64%;
 }
 
 .archive {
   float: right;
-  margin-left: 3%;
-  width: 30%;
+  margin-left: 2%;
+  width: 33%;
   height: 64%;
 }
 

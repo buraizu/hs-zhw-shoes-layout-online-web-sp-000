@@ -52,7 +52,7 @@
 
 .middle-shoe {
   float: left;
-
+  margin-right: 1%;
 }
 
 .last-shoe {
@@ -64,7 +64,7 @@
 .shoe-col {
 
 
-  margin: 1%;
+
   width: 30%;
 
 }

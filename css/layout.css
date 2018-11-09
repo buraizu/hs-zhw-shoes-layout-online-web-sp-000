@@ -44,13 +44,14 @@
 }
 
 .first-shoe {
-
+  float: left;
+  margin-right: 1%;
 
 
 }
 
 .middle-shoe {
-
+  float: left;
 
 }
 
@@ -61,7 +62,7 @@
 }
 
 .shoe-col {
-  float: left;
+
 
   margin: 1%;
   width: 30%;

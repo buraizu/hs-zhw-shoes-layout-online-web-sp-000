@@ -25,6 +25,8 @@
 /* Positioning Classes */
 
 .my-wrapper {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
   width: 100%;
   overflow: hidden;
   border: 2px solid magenta;
@@ -35,7 +37,7 @@
 .featured-col {
   float: left;
   width: 65%;
-
+  grid-column-start: span 2;
 }
 
 .archive {

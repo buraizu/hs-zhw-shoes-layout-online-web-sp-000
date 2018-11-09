@@ -47,7 +47,7 @@
   float: left;
   margin-right: 1%;
   width: 31%;
-  clear: right;
+
 }
 
 .middle-shoe {
@@ -55,7 +55,6 @@
   margin: 1%;
   width: 31%;
   margin-top: 2%;
-  clear: both;
 }
 
 .last-shoe {

@@ -44,23 +44,25 @@
 }
 
 .first-shoe {
-  width: 25%;
+
 
 
 }
 
 .middle-shoe {
-  width: 25%;
+
 
 }
 
 .last-shoe {
-  width: 25%;
+
 
 }
 
 .shoe-col {
   float: left;
   display: inline-block;
-  margin: 10px;
+  margin: 2%;
+  width: 30%;
+
 }

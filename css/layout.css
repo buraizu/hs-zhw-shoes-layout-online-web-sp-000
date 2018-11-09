@@ -55,6 +55,7 @@
   margin: 1%;
   width: 31%;
   margin-top: 2%;
+  display: inline-block;
 }
 
 .last-shoe {
@@ -63,6 +64,7 @@
   margin-top: 1%;
   width: 31%;
   margin-top: 1%;
+  display: inline-block;
 }
 
 .shoe-col {

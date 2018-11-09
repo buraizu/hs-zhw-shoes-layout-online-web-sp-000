@@ -31,6 +31,11 @@
   grid-gap: 1em;
 }
 
+
 .featured-col {
   grid-column-start: span 2;
+}
+
+.border-right {
+  float: left;
 }

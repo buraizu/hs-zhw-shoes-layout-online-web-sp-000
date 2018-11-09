@@ -33,13 +33,14 @@
 .featured-col {
   float: left;
   width: 66%;
-
+  height: 64%;
 }
 
 .archive {
   float: right;
   margin-left: 3%;
   width: 30%;
+  height: 64%;
 }
 
 .first-shoe {

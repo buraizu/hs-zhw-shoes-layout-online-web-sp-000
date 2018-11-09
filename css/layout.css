@@ -45,7 +45,7 @@
   height: 584.95px;
 }
 
-.first-shoe {
+/*.first-shoe {
   float: left;
   margin: 0.5%;
   width: 25%;
@@ -67,10 +67,12 @@
   width: 25%;
   margin: 0.5%;
   height: 345px;
-}
+}*/
 
 .shoe-col {
-
+  float: left;
+  width: 30%;
+  margin: 1%;
 
 
 
